@@ -94,5 +94,6 @@ Console.WriteLine("Unli harflar soni:" + wordCount);
 Console.ResetColor();
 
 string text1 = "Assalomu alekum ";
+int num = 68608;
 
 
