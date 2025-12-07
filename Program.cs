@@ -93,5 +93,6 @@ Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("Unli harflar soni:" + wordCount);
 Console.ResetColor();
 
+string text1 = "Assalomu alekum ";
 
 
