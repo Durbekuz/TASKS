@@ -1,0 +1,14 @@
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\bin\Debug\net10.0\HOMEWORK.exe
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\bin\Debug\net10.0\HOMEWORK.deps.json
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\bin\Debug\net10.0\HOMEWORK.runtimeconfig.json
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\bin\Debug\net10.0\HOMEWORK.dll
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\bin\Debug\net10.0\HOMEWORK.pdb
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\HOMEWORK.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\HOMEWORK.AssemblyInfo.cs
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\HOMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\HOMEWORK.dll
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\refint\HOMEWORK.dll
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\HOMEWORK.pdb
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\HOMEWORK.genruntimeconfig.cache
+C:\Users\i7TechStore\Documents\.NET\Lesson5\HOMEWORK\obj\Debug\net10.0\ref\HOMEWORK.dll
